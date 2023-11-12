@@ -459,13 +459,13 @@ form{
      }
    }
    a:link {
-     color: gray;
+     color: hotpink;
      background-color: transparent;
      text-decoration: none;
    }
 
    a:visited {
-     color: darkblue;
+     color: hotpink;
      background-color: transparent;
      text-decoration: none;
    }
