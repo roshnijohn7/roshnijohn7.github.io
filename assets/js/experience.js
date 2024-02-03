@@ -6,8 +6,26 @@ const exp = [
   {
     title: "Graduate Research Assistant, UMass Amherst",
     place: " Polymer Science and Engineering Department, <a href = 'https://www.pse.umass.edu/faculty/researchgroup/coughlin/people-' target='_blank' >Coughlin Research Group</a> &ensp;<a href = 'https://www.youtube.com/watch?v=-sn4LfPY5es&ab_channel=PolymerScience%26EngineeringatUMassAmherst' target='_blank'><img src='assets/images/experience-page/youtube.png' height=35></a>",
-    time: "(2019 - Present)",
-    desp: "<li> Designed and executed synthetic methodologies and characterization techniques from scratch for a million-dollar project funded by the Department of Energy (DOE), leading to the publication of several manuscripts in high-impact journals, contributing to a proposed grant of another million dollars.</li> <li> Elucidated the performance of a new class of polyethylene copolymers using advanced analytical techniques, such as NMR, FTIR, DSC, TGA, SEM, TEM, AFM, DMA, rheology, electrochemical analysis (EIS), and texture analyzer (TA).</li> <li> Discovered a groundbreaking class of materials derived from polyethylene featuring customizable properties such as separator functionality, self-healing capabilities, adhesive strength, and mechanical property enhancements. Successfully achieved these attributes through precise chemical manipulations, showcasing a comprehensive understanding of material science.</li><li> Successfully designed functional siloxane-based ATRP initiators to synthesize PS and PMMA polymers with a possibility of in-situ compatibilization of these homopolymers in mixed plastic waste stream resulting in block copolymer formation by cleavage and exchange of the active linker..</li>",
+    time: "(Aug 2019 - Present)",
+    desp: "<li> Designed and executed synthetic methodologies and characterization techniques from scratch for a <strong>million-dollar</strong> project funded by the <strong>Department of Energy (DOE)</strong>, leading to the publication of several manuscripts in <strong>high-impact journals</strong>, contributing to a proposed grant of another million dollars.</li> <li> Elucidated the performance of a new class of <strong>polyethylene copolymers</strong> using advanced analytical techniques, such as NMR, FTIR, DSC, TGA, SEM, TEM, AFM, DMA, rheology, electrochemical analysis (EIS), and texture analyzer (TA).</li> <li>Discovered a groundbreaking class of materials derived from <strong>polyethylene</strong> featuring customizable properties such as <strong>separator functionality, self-healing capabilities, adhesive strength, and mechanical property enhancements</strong>. Successfully achieved these attributes through precise chemical manipulations, showcasing a comprehensive understanding of material science.</li><li> Successfully designed functional <strong>siloxane-based ATRP initiators</strong> to synthesize PS and PMMA polymers with a possibility of in-situ compatibilization of these homopolymers in mixed plastic waste stream resulting in block copolymer formation by cleavage and exchange of the active linker.</li>",
+  },
+  {
+    title: "Graduate Research Assistant",
+    place: "Indian Institute of Science Education and Research, Kolkata <a href = 'https://alumni.iiserkol.ac.in/f/quarantinedays-from-roshni-john-13493'><img src='assets/images/experience-page/stack-of-photos.png' height=35></a>",
+    time: "(Aug 2017 - May 2019)",
+    desp:"<li> Crafted biodegradable and biocompatible <strong>self-assembled superstructures</strong> by synthesizing poly(ethylene glycol) and poly(ε-caprolactone) using the powerful azide-alkyne click chemistry (CuAAC).</li><li>Conducted a thorough characterization, unraveling their distinctive morphological features poised for <strong>cutting-edge advancements</strong> in targeted drug delivery for cancer cells</li>",
+  },
+  {
+    title: "Summer Research Intern",
+    place: "Indian Institute of Technology, Madras",
+    time: "(May 2017 - July 2017)",
+    desp:"<li> Synthesized a new class of <strong>Polyethers</strong> from Carbohydrate-based epoxides.</li><li>Included the <strong>monosaccharide-based epoxide monomer</strong> which was not used then for the preparation of polyethers, with the sugar units incorporated into the main polymer chain.</li>",
+  },
+  {
+    title: "Summer Research Intern",
+    place: "Indian Institute of Technology, Bombay",
+    time: "(May 2016 - July 2016)",
+    desp:"<li> Synthesized alkyl-chain separated <strong>triphenylbenzene – carbazole conjugates</strong> and their derived polymers, which are candidates for sensory, electrical, and optical materials.</li><li>Successfully demonstrated the effectiveness of <strong>Triarylbenzene and carbazoles</strong> as sensors for detecting polynitroaromatic analytes (PA, DNT, p-DNB, and m-DNB).</li>",
   },
 {
     title: "Graduate Teaching Assistant",
@@ -31,12 +49,6 @@ const exp = [
 //   </li>\
 //   <li>Milk</li>\
 // </ul>"
-  },
-  {
-    title: "Master's Thesis",
-    place: "Indian Institute of Science Education and Research, Kolkata <a href = 'https://alumni.iiserkol.ac.in/f/quarantinedays-from-roshni-john-13493'><img src='assets/images/experience-page/stack-of-photos.png' height=35></a>",
-    time: "(2017 - 2019)",
-    desp:"<li> Crafted biodegradable and biocompatible self-assembled superstructures by synthesizing poly(ethylene glycol) and poly(ε-caprolactone) using the powerful azide-alkyne click chemistry (CuAAC).</li><li> Conducted a thorough characterization, unraveling their distinctive morphological features poised for cutting-edge advancements in targeted drug delivery for cancer cells.</li>",
   },
 {
     title: "Graduate Teaching Assistant",
